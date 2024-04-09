@@ -1,1 +1,1 @@
-Assignment Snapshots folder has all IL and metadata file snapshots.
+The 'Assignment Snapshots' folder contains snapshots of all IL and metadata files.
